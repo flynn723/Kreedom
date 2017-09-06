@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30.8 22.599">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #1a1818;
+        stroke: #1a1818;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 0.5px;
+      }
+    </style>
+  </defs>
+  <title>ShoppingCart</title>
+  <path class="cls-1" d="M42.4,45.753H25.818a1.337,1.337,0,0,1-1.323-1.146L20.236,30.923a.123.123,0,0,1,.121-.14H47.442a.814.814,0,0,1,.727,1.181l-4.58,13.054A1.337,1.337,0,0,1,42.4,45.753Z" transform="translate(-17.707 -28.47)"/>
+  <circle class="cls-1" cx="1.41" cy="1.41" r="1.16"/>
+  <circle class="cls-2" cx="8.834" cy="20.678" r="1.421"/>
+  <circle class="cls-2" cx="24.243" cy="20.678" r="1.421"/>
+</svg>

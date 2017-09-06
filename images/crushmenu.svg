@@ -1,0 +1,22 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1a1818;
+        stroke: #1a1818;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>CrushMenu</title>
+  <rect class="cls-1" width="36" height="36"/>
+  <g>
+    <rect class="cls-2" x="3.389" y="17.093" width="19.285" height="1.814"/>
+    <rect class="cls-2" x="3.389" y="22.926" width="19.285" height="1.814"/>
+    <rect class="cls-2" x="3.389" y="11.26" width="19.285" height="1.814"/>
+  </g>
+</svg>
