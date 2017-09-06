@@ -2,7 +2,9 @@ Change Log
 
 v 1.0 - m "Initial Commit"
 v 1.0.1 - m "Minor Page Load Speed Improvement"
-	- Files Modified - crusheyes-test.html, crusheyes.html, index.html, kreedom-test.html, tablet/crusheyes.html, index.html
+	- Folder Added - fonts
+	- Files Modified - crusheyes-test.html, crusheyes.html, index.html, kreedom-test.html, tablet/crusheyes.html, tablet/index.html
+	- Files Added changelog.txt, fancybox-fontawesome-bundle.min.css
 	- Fixed - internal style - *overflow: hidden; removed from 6 files
 	- Removed - internal style - 'span.child' from 6 files
 	- Replaced - fancybox.min.css & font-awesome.min.css were bundled into a file called fancybox-fontawesome-bundle.min.css
