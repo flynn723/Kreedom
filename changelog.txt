@@ -8,3 +8,6 @@ v 1.0.1 - m "Minor Page Load Speed Improvement"
 	- Fixed - internal style - *overflow: hidden; removed from 6 files
 	- Removed - internal style - 'span.child' from 6 files
 	- Replaced - fancybox.min.css & font-awesome.min.css were bundled into a file called fancybox-fontawesome-bundle.min.css
+v 1.0.1 - m "Removed internal GA, site now uses Google Tag Manager"
+	- Removed Google Analytics script across 85 files
+	- in index.css & phone/index.css replaced selector '.js body' property value visibility to visible
